@@ -41,7 +41,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 /**
- * This example illustrates a common usage of the DrawerLayout widget
+ * This an example illustrates a common usage of the DrawerLayout widget
  * in the Android support library.
  * <p/>
  * <p>When a navigation (left) drawer is present, the host activity should detect presses of
